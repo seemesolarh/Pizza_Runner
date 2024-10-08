@@ -1,4 +1,4 @@
-                                                                                     PIZZA RUNNER CASE STUDY
+                                                                PIZZA RUNNER CASE STUDY
 
 This project addresses the Pizza Runner Case Study questions, focusing on pizza metrics, runner and customer experience, ingredient optimization, pricing and ratings, and bonus DML challenges. 
 The goal is to analyze various aspects of the pizza delivery business, from the number of pizzas ordered to customer satisfaction and ingredient usage, using SQL.
